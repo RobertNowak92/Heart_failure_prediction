@@ -41,16 +41,16 @@ and binary sex column was converted to integer with 0 for woman and 1 for
 man by the author.
 
 ## Requirements
-python 3.10
+Python 3.10
 
 All needed libraries can be installed by command:
 pip install -r requirements.txt
 
-Installed libraries are:
-numpy 1.26.0
-pandas 2.0.3
-scikit-learn 1.3.2
-imblearn 0.0
-matplotlib 3.7.3
+Installed libraries are:<br>
+numpy 1.26.0<br>
+pandas 2.0.3<br>
+scikit-learn 1.3.2<br>
+imblearn 0.0<br>
+matplotlib 3.7.3<br>
 seaborn 0.12.2
 
