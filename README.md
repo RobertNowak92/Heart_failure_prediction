@@ -18,7 +18,7 @@ Models that were created are:
 - Neural Network
 
 ## Data
-Data was downloaded from Kaggle, direct link:
+Data was downloaded from Kaggle, direct link:<br>
 https://www.kaggle.com/andrewmvd/heart-failure-clinical-data
 
 This database consist of 299 rows and 13 columns:
@@ -43,7 +43,7 @@ man by the author.
 ## Requirements
 Python 3.10
 
-All needed libraries can be installed by command:
+All needed libraries can be installed by command:<br>
 pip install -r requirements.txt
 
 Installed libraries are:<br>
